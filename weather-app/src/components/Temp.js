@@ -69,3 +69,6 @@ const Temp = () => {
 }
 
 export default Temp
+
+
+//api key - 6ab53dbc0c0a397e770d17a8c844c968
