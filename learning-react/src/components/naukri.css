@@ -1,0 +1,11 @@
+.naukri{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    text-align: center;
+    margin: 90px;
+    padding: 30px;
+    font-style: oblique;
+    font-size: 30px;
+    background-color: rgb(151, 189, 189);
+    color: rgb(3, 0, 5);
+
+}

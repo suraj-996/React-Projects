@@ -1,0 +1,13 @@
+.circled{
+    list-style: circle dark;
+}
+
+.squared{
+    list-style: square dark;
+}
+.square{
+    list-style: square;
+}
+.open{
+    list-style: square;
+}
